@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I'm Drew - a software developer with a background in linguistics. I've developed a fascination with computer languages. This interest has led me to pursue a career in software development.
+I'm Drew - a software developer with a background in linguistics. I've developed a fascination with computer languages. This interest has led me to pursue a career in software development.
 
 ## Mastered Tools
 

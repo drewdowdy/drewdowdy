@@ -2,8 +2,6 @@
 
 Hi, I'm Drew - a software developer with a background in linguistics. I've developed a fascination with computer languages. This interest has led me to pursue a career in software development.
 
-I am passionate about building clean and maintainable code that is helpful to others.
-
 ## Mastered Tools
 
 [![Mastered Tools](https://skillicons.dev/icons?i=ruby,html,css,postgres,vscode,md,git,github,bash)](https://skillicons.dev)

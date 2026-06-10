@@ -21,4 +21,4 @@ I am passionate about building clean and maintainable code that is helpful to ot
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/andrew-dowdy-58368170/)
-[![Email](https://img.shields.io/badge/Email-white?logo=gmail)](drewdowdy109+github@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:drewdowdy109+github@gmail.com)

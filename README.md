@@ -1,14 +1,12 @@
 # Hi there 👋
 
-I'm Drew - a software developer developing my skills.
-
-I have always had a deep seeded interest in languages and linguistics, which sparked my curiosity for computer languages.
+Hi, I'm Drew - a software developer with a background in linguistics. I've developed a fascination with computer languages. This interest has led me to pursue a career in software development.
 
 I am passionate about building clean and maintainable code that is helpful to others.
 
 ## Mastered Tools
 
-[![Mastered Tools](https://skillicons.dev/icons?i=vscode,md,git,github,bash,ruby,postgres,css,html)](https://skillicons.dev)
+[![Mastered Tools](https://skillicons.dev/icons?i=ruby,html,css,postgres,vscode,md,git,github,bash)](https://skillicons.dev)
 
 ## Currently Learning
 

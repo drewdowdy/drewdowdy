@@ -1,18 +1,15 @@
+<!-- This is the doucment I will use for my public Github Profile -->
+
 # Hi there 👋
 
 I'm Drew - a software developer with a background in linguistics. I've developed a fascination with computer languages. This interest has led me to pursue a career in software development.
 
+I am passionate about building clean and maintainable code that is helpful to others.
+
 ## Mastered Tools
 
-[![Mastered Tools](https://skillicons.dev/icons?i=ruby,html,css,postgres,vscode,md,git,github,bash)](https://skillicons.dev)
+[![Mastered Tools](https://skillicons.dev/icons?i=ruby,javascript,nodejs,html,css,postgres,vscode,md,git,github,bash)](https://skillicons.dev)
 
-## Currently Learning
-
-[![Currently Learning](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
-
-## Dabbling
-
-[![Dabbling](https://skillicons.dev/icons?i=vim,py,svelte)](https://skillicons.dev)
 
 ## Let's Connect!
 
